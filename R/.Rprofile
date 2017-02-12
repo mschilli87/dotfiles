@@ -1,0 +1,8 @@
+options(width=150, digits=10)
+#options(browser="luakit")
+options(browserNLdisabled=T)
+options(editor='/usr/bin/vim')
+options(stringsAsFactors=F)
+options(repos='http://cran.r-mirror.de/')
+library(vimcom)
+#options(help_type='html')
